@@ -1,0 +1,9 @@
+{
+    "dataset_category": "potato_baby",
+    "image": "OIP (4).jpg",
+    "plant": "potato",
+    "growth_stage": "baby",
+    "confidence": 0.4347,
+    "stage_confidence": 0.5625,
+    "model": "CNN"
+}

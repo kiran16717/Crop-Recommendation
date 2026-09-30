@@ -1,0 +1,9 @@
+{
+    "dataset_category": "tomato_baby",
+    "image": "OIP.jpg",
+    "plant": "tomato",
+    "growth_stage": "baby",
+    "confidence": 0.3472,
+    "stage_confidence": 0.7116,
+    "model": "CNN"
+}

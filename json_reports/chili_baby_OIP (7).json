@@ -1,0 +1,9 @@
+{
+    "dataset_category": "chili_baby",
+    "image": "OIP (7).jpg",
+    "plant": "chili",
+    "growth_stage": "mature",
+    "confidence": 0.5369,
+    "stage_confidence": 0.5282,
+    "model": "CNN"
+}
