@@ -11,9 +11,10 @@ This project uses Machine Learning to recommend the best crop based on soil and 
 - Output: Recommended Crop
 
 ## 🛠 Tech Stack
+-CNN model
 - Python
-- Pandas
-- NumPy
+- pyTorch
+- IPFS/Pinata
 - Scikit-learn
 - Matplotlib
 
